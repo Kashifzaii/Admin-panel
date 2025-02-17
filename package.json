@@ -20,6 +20,7 @@
     "react-dom": "^19.0.0",
     "react-icon": "^1.0.0",
     "react-icons": "^5.4.0",
+    "rxjs": "^7.8.1",
     "sanity": "^3.75.1"
   },
   "devDependencies": {
